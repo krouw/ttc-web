@@ -7417,7 +7417,8 @@ nav ul a.btn, nav ul a.btn-large, nav ul a.btn-large, nav ul a.btn-flat, nav ul 
 }
 
 nav ul a:hover {
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: #ef5350;
+  color: #fff;
 }
 
 nav ul.left {
@@ -9802,7 +9803,7 @@ select {
 }
 
 .side-nav li:hover, .side-nav li.active {
-  background-color: #ddd;
+  background-color: #EF5350;
 }
 
 .side-nav a {
