@@ -9,6 +9,7 @@
 nav ul a,
 nav .brand-logo {
   color: #444;
+  width: 200px;
 }
 
 p {
@@ -36,6 +37,12 @@ p {
   }
   #index-banner .section {
     top: 10%;
+  }
+}
+
+@media only screen and (min-width : 400px) {
+  nav .brand-logo{
+    width: 260px;
   }
 }
 
