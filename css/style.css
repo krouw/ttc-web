@@ -76,10 +76,19 @@ footer.page-footer {
 
 }
 
-.nobottom{
-  margin-bottom: 0px;
+.lessbottom{
+  margin-bottom: 5px;
 }
 
 .side-nav a{
   height: 50px;
+}
+
+.margin-top-2{
+  margin-top: 2px !important;
+}
+
+.btn-nav{
+  text-align: left !important;
+  text-transform: none;
 }
