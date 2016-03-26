@@ -85,10 +85,48 @@ footer.page-footer {
 }
 
 .margin-top-2{
-  margin-top: 2px !important;
+  margin-top: 0.125em !important;
+}
+
+.margin-top-10{
+  margin-top: 0.625em !important;
 }
 
 .btn-nav{
   text-align: left !important;
   text-transform: none;
+}
+
+.nopadding{
+  padding: 0;
+}
+
+.input-field input[type=text]:focus + label,  .input-field input[type=email]:focus + label, .input-field textarea.materialize-textarea:focus + label{
+   color: #ef5350;
+ }
+
+.input-field input[type=text]:focus, .input-field input[type=email]:focus,.input-field textarea.materialize-textarea:focus {
+     border-bottom: 1px solid #ef5350;
+     box-shadow: 0 1px 0 0 #ef5350;
+}
+
+.info{
+  margin-left: 5%;
+}
+
+.texttransnone{
+  text-transform: none !important;
+}
+
+.card-info{
+  height: 41.5em;
+}
+
+.social:first-child{
+    margin-left: 5%;
+}
+
+.social{
+  margin-right: 2%;
+  margin-top: 2%;
 }
