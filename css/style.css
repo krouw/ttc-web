@@ -143,3 +143,8 @@ footer.page-footer {
 .parallax-contacto{
   min-height: 700px !important;
 }
+
+.mwith-300{
+  max-width: 300px;
+  margin: 0 auto !important;
+}
