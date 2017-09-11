@@ -3,7 +3,7 @@
 Página web Tributo Tecnológico
 Aprendizaje Maqueteo Front End
 
-HTML
-CSS
-JS -> JQuery
-MaterializeCSS 
+HTML  
+CSS  
+JS -> JQuery  
+MaterializeCSS   
